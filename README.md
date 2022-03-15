@@ -1,4 +1,4 @@
-### Hello World, My name is Matt!
+# Matt Lawrence
 
 ![image](./images/topBanner.png)
 
@@ -11,23 +11,12 @@
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whites)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Welcome to my GitHub page, have fun!
+
+###
+
+My name is Matt lawrence, I have been teaching myself software development for almost two years now and I'm always looking for the next challenge to conquer.
+
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattpLawrence)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattpLawrence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**MattpLawrence/MattpLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-"
