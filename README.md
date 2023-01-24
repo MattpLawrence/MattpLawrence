@@ -15,7 +15,7 @@
 
 ## Welcome to my GitHub page, have fun!
 
-### My name is Matt lawrence, I have been teaching myself software development for almost two years now and I'm always looking for the next challenge to conquer. Take a look through, and see for yourself what all I have learned. If you'd like to know more about me please visit my portfolio page at: [MattpLawrence](https://mpl-portfolio-2022.netlify.app/)
+### My name is Matt lawrence, I am a junior software developer specializing in front end development and styling. If you'd like to know more about me please visit my portfolio page at: [MattpLawrence](https://mpl-portfolio-2022.netlify.app/)
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattpLawrence)](https://github.com/anuraghazra/github-readme-stats)
 
