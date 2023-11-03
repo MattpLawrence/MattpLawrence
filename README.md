@@ -17,6 +17,5 @@
 
 ### My name is Matt lawrence, I am a junior software developer specializing in front end development and styling. If you'd like to know more about me please visit my portfolio page at: [MattpLawrence](https://mpl-portfolio-2022.netlify.app/)
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattpLawrence)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattpLawrence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
